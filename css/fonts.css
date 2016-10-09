@@ -1,0 +1,41 @@
+/* Playfair Display */
+/* normal */
+@font-face {
+  font-family: 'PlayfairDisplay';
+  src: url('../fonts/PlayfairDisplay-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* bold */
+@font-face {
+  font-family: 'PlayfairDisplay';
+  src: url('../fonts/PlayfairDisplay-Bold.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* italic (oblique) */
+@font-face {
+  font-family: 'PlayfairDisplay';
+  src: url('../fonts/PlayfairDisplay-Italic.ttf');
+  font-style: italic;
+  font-weight: normal;
+}
+
+/* bold and italic (oblique) */
+@font-face {
+  font-family: 'PlayfairDisplay';
+  src: url('../fonts/PlayfairDisplay-BoldItalic.ttf');
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* Ubuntu */
+/* light */
+@font-face {
+  font-family: 'UbuntuLight';
+  src: url('../fonts/Ubuntu-Light.ttf');
+  font-weight: normal;
+  font-style: normal;
+}

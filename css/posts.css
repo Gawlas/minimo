@@ -1,0 +1,41 @@
+.category {
+  font-family: UbuntuLight;
+  font-size: 14px;
+  color: #b4ad9e;
+}
+
+.category a {
+  color: #b4ad9e;
+}
+
+.category a:hover {
+  color: #707070;
+}
+
+.leave_comment {
+  padding-top: 40px;
+}
+
+#first_post_img {
+  width: 100%;
+  padding-bottom: 100px;
+}
+
+.art {
+  padding-top: 100px;
+}
+
+.art img {
+  width: 100%;
+}
+
+.art .category {
+  padding-top: 20px;
+  margin: 0px;
+}
+
+.art h1 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0px;
+}

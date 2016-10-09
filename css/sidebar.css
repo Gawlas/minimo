@@ -1,0 +1,54 @@
+.about_me img {
+  width: 100%;
+}
+
+.about_me h1 {
+  padding: 0;
+}
+
+.about_me p {
+  font-size: 14px;
+  line-height: normal;
+}
+
+.about_me_links {
+  margin-top: 15px;
+}
+
+.about_me_links a {
+  margin-right: 10px;
+}
+
+.banner {
+  margin-top: 50px;
+}
+
+.top_posts {
+  margin-top: 50px;
+}
+
+.top_posts_title p {
+  font-family: UbuntuLight;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.top_posts_header {
+  margin: 5px;
+}
+
+.top_posts_header a {
+  font-size: 16px;
+  color: #505050;
+}
+
+.top_posts_header a:before {
+  content:'\00B7';
+  padding-right:15px;
+}
+
+.top_posts_comment {
+  font-family: UbuntuLight;
+  font-size: 12px;
+  margin-left: 24px;
+}

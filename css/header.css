@@ -1,0 +1,20 @@
+.navbar-default {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border: 0px;
+  background-color: #ffffff;
+}
+
+.navbar-default .navbar-nav>li>a {
+  font-family: PlayfairDisplay;
+  font-size: 14px;
+  color: #989898;
+}
+
+.navbar-default .navbar-nav>li {
+  padding-right: 80px;
+}
+
+.navbar-default .navbar-nav>li:last-child {
+  padding-right: 0px;
+}

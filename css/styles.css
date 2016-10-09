@@ -1,0 +1,45 @@
+body {
+  font-family: PlayfairDisplay;
+  font-size: 14px;
+  color: #989898;
+  background-color: #fff;
+}
+
+p {
+  line-height: 20pt;
+  font-weight: 500;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: #989898;
+}
+
+a:hover {
+  color: #707070;
+  text-decoration: none;
+}
+
+a:focus {
+  color: #707070;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 30px;
+  color: #707070;
+  padding-bottom: 30px;;
+}
+
+h1 a {
+  color: #707070;
+}
+
+h1 a:hover {
+  color: #404040;
+}
+
+.full_width_img {
+  width: 100%;
+}
