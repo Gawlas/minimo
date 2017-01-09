@@ -15,6 +15,13 @@
   padding-right: 80px;
 }
 
+@media screen and (max-width: 992px) {
+  .navbar-default .navbar-nav>li {
+    padding-right: 60px;
+  }
+}
+
+
 .navbar-default .navbar-nav>li:last-child {
   padding-right: 0px;
 }
